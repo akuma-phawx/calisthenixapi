@@ -1,1 +1,1 @@
-# calisthenixapi 👷
+# calisthenixapi
